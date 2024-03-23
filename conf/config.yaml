@@ -1,5 +1,5 @@
 openai:
   model : "gpt-4-turbo-preview"
-  api_key : "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"
+  api_key : "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"
   file_ids:
     - file-07h39J2PZDIyz4R9tcaDCM1X
